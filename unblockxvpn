@@ -68,11 +68,16 @@
         "vpnFile": "https://ayoubdev.store/connect/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn"
       },
       {
-        "vpnName": "Emarat",
-        "vpnLocked": false,
-        "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
-      },
+    "credentials": {
+        "username": "7yJXLkNRHvH4DO2B",
+        "password": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF"
+    },
+    "servers": [
+        {
+            "name": "Emirates",
+            "flag_icon": "ae",
+            "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
+        },
       {
         "vpnName": "Albania",
         "vpnLocked": false,
