@@ -71,7 +71,7 @@
         "vpnName": "Emarat",
         "vpnLocked": true,
         "vpnIso": "ae",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AE-Dubai-TCP.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
       },
       {
         "vpnName": "Albania",
