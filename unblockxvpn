@@ -10,7 +10,7 @@
 
     "AdInterval"          : 1,
 
-    "HuaweiAppId"         : ,
+    "HuaweiAppId"         : "114185681",
     
     "HuaweiBanner"        : "testw6vs28auh3",
     "HuaweiInterstitialAd": "testb4znbuh3n2",
