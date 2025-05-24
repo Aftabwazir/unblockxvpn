@@ -58,12 +58,9 @@
   
 
     "VpnController": {
-      {
-    "credentials": {
-        "username": "7yJXLkNRHvH4DO2B",
-        "password": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF"
-    },
-    "servers": [
+    "VpnUserName": "ncpayoubbilal@namecheap",
+    "VpnPassword": "eiAsudQCL2",
+    "VpnList": [
         {
             "name": "Emirates",
             "flag_icon": "ae",
