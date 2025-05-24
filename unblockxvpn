@@ -35,10 +35,10 @@
       },
       
       {
-        "vpnName": "Emarat",
-        "vpnLocked": false,
-        "vpnIso": "ae",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
+        "name": "Emirates",
+            "flag_icon": "ae",
+         "vpnLocked": true,
+            "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
       },
       {
         "vpnName": "Albania",
