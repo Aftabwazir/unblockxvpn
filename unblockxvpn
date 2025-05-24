@@ -26,10 +26,9 @@
     "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
     "VpnList": [
       {
-        "vpnName"  : "Andorra",
-        "vpnLocked": false,
-        "vpnIso"   : "ad",
-        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn"
+        "name": "Deutschland",
+            "flag_icon": "de",
+            "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       
       {
