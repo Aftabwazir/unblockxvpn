@@ -1,69 +1,148 @@
 {
-  "AppRedirect": {
-    "status": false,
-    "redirectURL": "https://appgallery.huawei.com/app/C114185681"
+  "credentials": {
+    "username": "7yJXLkNRHvH4DO2B",
+    "password": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF"
   },
-  "AdsController": {
-    "AdInterval": 1,
-    "HuaweiAppId": "114185681",
-    "HuaweiBanner": "testw6vs28auh3",
-    "HuaweiInterstitialAd": "testb4znbuh3n2",
-    "HuaweiRewardAd": "testx9dtjwj8hp",
-    "HuaweiNativeAd": "testy63txaom86",
-    "NativeAdRow": 3
-  },
-  "VpnController": {
-    "VpnUserName": "ncpnazih1984@namecheap",
-    "VpnPassword": "PbzlcEnJrT",
-    "VpnList": [
-      {
-        "vpnName": "Andorra",
-        "vpnLocked": false,
-        "vpnIso": "ad",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "United Arab Emirates",
-        "vpnLocked": false,
-        "vpnIso": "ae",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
-      },
-      {
-        "vpnName": "Albania",
-        "vpnLocked": true,
-        "vpnIso": "al",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AL-Tirana-TCP.ovpn"
-      },
-      {
-        "vpnName": "Armenia",
-        "vpnLocked": true,
-        "vpnIso": "am",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AM-Yerevan%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Turkey",
-        "vpnLocked": false,
-        "vpnIso": "tr",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-TR-Istanbul-TCP.ovpn"
-      },
-      {
-        "vpnName": "United States",
-        "vpnLocked": true,
-        "vpnIso": "us",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Ashburn-TCP.ovpn"
-      },
-      {
-        "vpnName": "United States - Atlanta",
-        "vpnLocked": true,
-        "vpnIso": "us",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Atlanta-TCP.ovpn"
-      },
-      {
-        "vpnName": "United States - Boston",
-        "vpnLocked": true,
-        "vpnIso": "us",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Boston-TCP.ovpn"
-      }
-    ]
-  }
+  "servers": [
+    {
+      "name": "Emirates",
+      "flag_icon": "ae",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
+    },
+    {
+      "name": "Deutschland",
+      "flag_icon": "de",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Saudi Arabia",
+      "flag_icon": "sa",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
+    },
+    {
+      "name": "United States",
+      "flag_icon": "us",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
+    },
+    {
+      "name": "United Kingdom",
+      "flag_icon": "gb",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/uk.ovpn"
+    },
+    {
+      "name": "France",
+      "flag_icon": "fr",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Italy",
+      "flag_icon": "it",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Spain",
+      "flag_icon": "es",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Netherlands",
+      "flag_icon": "nl",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Sweden",
+      "flag_icon": "se",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Norway",
+      "flag_icon": "no",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Finland",
+      "flag_icon": "fi",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Switzerland",
+      "flag_icon": "ch",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Belgium",
+      "flag_icon": "be",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Austria",
+      "flag_icon": "at",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Poland",
+      "flag_icon": "pl",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Canada",
+      "flag_icon": "ca",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "China",
+      "flag_icon": "cn",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "India",
+      "flag_icon": "in",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Morocco",
+      "flag_icon": "ma",
+      "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+    },
+    {
+      "name": "Andorra",
+      "flag_icon": "ad",
+      "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn"
+    },
+    {
+      "name": "United Arab Emirates",
+      "flag_icon": "ae",
+      "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
+    },
+    {
+      "name": "Albania",
+      "flag_icon": "al",
+      "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-AL-Tirana-TCP.ovpn"
+    },
+    {
+      "name": "Armenia",
+      "flag_icon": "am",
+      "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-AM-Yerevan%20-%20Virtual-TCP.ovpn"
+    },
+    {
+      "name": "Turkey",
+      "flag_icon": "tr",
+      "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-TR-Istanbul-TCP.ovpn"
+    },
+    {
+      "name": "United States - Ashburn",
+      "flag_icon": "us",
+      "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-US-Ashburn-TCP.ovpn"
+    },
+    {
+      "name": "United States - Atlanta",
+      "flag_icon": "us",
+      "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-US-Atlanta-TCP.ovpn"
+    },
+    {
+      "name": "United States - Boston",
+      "flag_icon": "us",
+      "ovpn_file": "https://stickersm.com/VPN/server/NCVPN-US-Boston-TCP.ovpn"
+    }
+  ]
 }
