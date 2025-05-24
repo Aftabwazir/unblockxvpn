@@ -1,375 +1,196 @@
 {
- 
-  "AppRedirect": {
-    "status": false,
-    "redirectURL": "https://appgallery.huawei.com/app/C114185681"
-  },
-  
-  
-  
-  
-   "AdsController": {
-
-    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
-
-
-    "BannerNetwork"          : "hws",
-    "InterstitialNetwork"    : "hws",
-    "InterstitialNetworkHome": "hws",
-    "RewardNetwork"          : "hws",
-    "NativeNetwork"          : "hws",
-    
-    "AdInterval"          : 4,
-    "NativeAdRow"         : 3,
-    "ShowPaydialogtime"   : 30,
-
-    "AdPlacement": {
-
-      "AdMobBanner"           : "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial"     : "ca-app-pub-3940256099942544/1033173712",
-      "AdMobInterstitialHome" : "ca-app-pub-3940256099942544/1033173712",
-      "AdMobReward"           : "ca-app-pub-3940256099942544/5224354917",
-      "AdMobNative"           : "ca-app-pub-3940256099942544/2247696110",
-      
-      
-      "ApplovinKey"             : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
-      "ApplovinBanner"          : "da17eff31ae69f15",
-      "ApplovinInterstitial"    : "98f6a586ed642919",
-      "ApplovinInterstitialHome": "98f6a586ed642919",
-      "ApplovinReward"          : "98f6a586ed642919",
-      "ApplovinNative"          : "98f6a586ed642919",
-
-      "HuaweiAppId"           : "114185681",
-      "HuaweiBanner"          : "testw6vs28auh3",
-      "HuaweiInterstitial"    : "teste9ih9j0rc3",
-      "HuaweiInterstitialHome": "teste9ih9j0rc3",
-      "HuaweiReward"          : "testx9dtjwj8hp",
-      "HuaweiNative"          : "testu7m3hc4gvm",
-      
-      "YandexBanner"          : "demo-banner-yandex",
-      "YandexInterstitial"    : "demo-interstitial-yandex",
-      "YandexInterstitialHome": "demo-interstitial-yandex",
-      "YandexReward"          : "demo-rewarded-yandex",
-      "YandexNative"          : "demo-native-app-yandex"
-
+  "VpnList": [
+    {
+      "VpnName": "Andorra",
+      "VpnFlag": "ad",
+      "VpnConfigFile": "ad.ovpn",
+      "VpnUserName": "ncpnazih1984@namecheap",
+      "VpnPassword": "PbzlcEnJrT",
+      "vpnLocked": true
+    },
+    {
+      "VpnName": "Emirates",
+      "VpnFlag": "ae",
+      "VpnConfigFile": "ae.ovpn",
+      "VpnUserName": "ncpnazih1984@namecheap",
+      "VpnPassword": "PbzlcEnJrT",
+      "vpnLocked": true
+    },
+    {
+      "VpnName": "Australia",
+      "VpnFlag": "au",
+      "VpnConfigFile": "au.ovpn",
+      "VpnUserName": "ncpnazih1984@namecheap",
+      "VpnPassword": "PbzlcEnJrT",
+      "vpnLocked": true
+    },
+    {
+      "VpnName": "Austria",
+      "VpnFlag": "at",
+      "VpnConfigFile": "at.ovpn",
+      "VpnUserName": "ncpnazih1984@namecheap",
+      "VpnPassword": "PbzlcEnJrT",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Belgium",
+      "VpnFlag": "be",
+      "VpnConfigFile": "be.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Brazil",
+      "VpnFlag": "br",
+      "VpnConfigFile": "br.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Bulgaria",
+      "VpnFlag": "bg",
+      "VpnConfigFile": "bg.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Canada",
+      "VpnFlag": "ca",
+      "VpnConfigFile": "ca.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Switzerland",
+      "VpnFlag": "ch",
+      "VpnConfigFile": "ch.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Germany",
+      "VpnFlag": "de",
+      "VpnConfigFile": "de.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "France",
+      "VpnFlag": "fr",
+      "VpnConfigFile": "fr.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "United Kingdom",
+      "VpnFlag": "gb",
+      "VpnConfigFile": "gb.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Hong Kong",
+      "VpnFlag": "hk",
+      "VpnConfigFile": "hk.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Indonesia",
+      "VpnFlag": "id",
+      "VpnConfigFile": "id.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "India",
+      "VpnFlag": "in",
+      "VpnConfigFile": "in.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Italy",
+      "VpnFlag": "it",
+      "VpnConfigFile": "it.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Japan",
+      "VpnFlag": "jp",
+      "VpnConfigFile": "jp.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "South Korea",
+      "VpnFlag": "kr",
+      "VpnConfigFile": "kr.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Netherlands",
+      "VpnFlag": "nl",
+      "VpnConfigFile": "nl.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Norway",
+      "VpnFlag": "no",
+      "VpnConfigFile": "no.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Philippines",
+      "VpnFlag": "ph",
+      "VpnConfigFile": "ph.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Singapore",
+      "VpnFlag": "sg",
+      "VpnConfigFile": "sg.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "Sweden",
+      "VpnFlag": "se",
+      "VpnConfigFile": "se.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
+    },
+    {
+      "VpnName": "United States",
+      "VpnFlag": "us",
+      "VpnConfigFile": "us.ovpn",
+      "VpnUserName": "capcutgenai@namecheap",
+      "VpnPassword": "CapcutGenai@2024",
+      "vpnLocked": false
     }
-
-  },
-  
-
-   
-  "VpnController": {
-      
-    "VpnUserName": "ncpnazih1984@namecheap",
-    "VpnPassword": "PbzlcEnJrT",
-    "VpnList": [
-      
-      {
-        "vpnName"  : "Andorra",
-        "vpnLocked": false,
-        "vpnIso"   : "ad",
-        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn"
-      },
-      
-      {
-        "vpnName": "Emarat",
-        "vpnLocked": false,
-        "vpnIso": "ae",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
-      },
-      {
-        "vpnName": "Albania",
-        "vpnLocked": true,
-        "vpnIso": "al",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AL-Tirana-TCP.ovpn"
-      },
-      {
-        "vpnName": "Arminia",
-        "vpnLocked": true,
-        "vpnIso": "am",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AM-Yerevan%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Argentina",
-        "vpnLocked": true,
-        "vpnIso": "ar",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AR-Buenos%20Aires-TCP.ovpn"
-      },
-      {
-        "vpnName": "Austria",
-        "vpnLocked": true,
-        "vpnIso": "at",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AT-Vienna-TCP.ovpn"
-      },
-      {
-        "vpnName": "Australia",
-        "vpnLocked": true,
-        "vpnIso": "au",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Adelaide-TCP.ovpn"
-      },
-      {
-        "vpnName": "Azerbaijan",
-        "vpnLocked": true,
-        "vpnIso": "az",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AZ-Baku%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Bosnia and Herzegovina",
-        "vpnLocked": true,
-        "vpnIso": "ba",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-BA-Sarajevo%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Bangladesh",
-        "vpnLocked": false,
-        "vpnIso": "bd",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-BD-Dhaka%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Belgium",
-        "vpnLocked": true,
-        "vpnIso": "be",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-BE-Brussels-TCP.ovpn"
-      },
-      {
-        "vpnName": "Brunei",
-        "vpnLocked": false,
-        "vpnIso": "bn",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-BN-Bandar%20Seri%20Begawan%20-%20Virtual-TCP.ovpn"
-      },
-      
-      {
-        "vpnName"  : "Emirates",
-        "vpnLocked": false,
-        "vpnIso"   : "ae",
-        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
-      },
-      
-      {
-        "vpnName"  : "Australia-Sydney",
-        "vpnLocked": false,
-        "vpnIso"   : "au",
-        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AU-Sydney-TCP.ovpn"
-      },
-      
-      {
-        "vpnName": "Australia-Adelaide",
-        "vpnLocked": false,
-        "vpnIso": "au",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Adelaide-TCP.ovpn"
-      },
-      {
-        "vpnName": "Australia-Brisbane",
-        "vpnLocked": false,
-        "vpnIso": "au",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Brisbane-TCP.ovpn"
-      },
-      {
-        "vpnName": "Australia-Melbourne",
-        "vpnLocked": true,
-        "vpnIso": "au",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Melbourne-TCP.ovpn"
-      },
-      {
-        "vpnName": "Australia-Perth",
-        "vpnLocked": true,
-        "vpnIso": "au",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Perth-TCP.ovpn"
-      },
-      {
-        "vpnName": "Canada-Montreal",
-        "vpnLocked": true,
-        "vpnIso": "ca",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-CA-Montreal-TCP.ovpn"
-      },
-      {
-        "vpnName": "Canada-Toronto",
-        "vpnLocked": true,
-        "vpnIso": "ca",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-CA-Toronto-TCP.ovpn"
-      },
-      {
-        "vpnName": "Deutschland",
-        "vpnLocked": true,
-        "vpnIso": "de",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-DE-Frankfurt-TCP.ovpn"
-      },
-      {
-        "vpnName": "Saudi Arabia",
-        "vpnLocked": true,
-        "vpnIso": "sa",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-SA-Jeddah%20-%20Virtual-TCP.ovpn"
-      },
-	        {
-        "vpnName"  : "Ukraine",
-        "vpnLocked": false,
-        "vpnIso"   : "ua",
-        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-UA-Kyiv-TCP.ovpn"
-      },
-      
-      {
-        "vpnName": "T端rkiye",
-        "vpnLocked": false,
-        "vpnIso": "tr",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-TR-Istanbul-TCP.ovpn"
-      },
-      {
-        "vpnName": "Portugal",
-        "vpnLocked": false,
-        "vpnIso": "pt",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-PT-Lisbon-TCP.ovpn"
-      },
-      {
-        "vpnName": "Poland",
-        "vpnLocked": true,
-        "vpnIso": "pl",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-PL-Warsaw-TCP.ovpn"
-      },
-      {
-        "vpnName": "Netherlands",
-        "vpnLocked": true,
-        "vpnIso": "nl",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-NL-Amsterdam-TCP.ovpn"
-      },
-      {
-        "vpnName": "Monaco",
-        "vpnLocked": true,
-        "vpnIso": "mc",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-MC-Monaco%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Luxembourg",
-        "vpnLocked": true,
-        "vpnIso": "lu",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-LU-Luxembourg-TCP.ovpn"
-      },
-            {
-        "vpnName"  : "Andorra",
-        "vpnLocked": false,
-        "vpnIso"   : "ad",
-        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn"
-      },
-      
-      {
-        "vpnName": "Emarat",
-        "vpnLocked": false,
-        "vpnIso": "ae",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
-      },
-      {
-        "vpnName": "Albania",
-        "vpnLocked": true,
-        "vpnIso": "al",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AL-Tirana-TCP.ovpn"
-      },
-      {
-        "vpnName": "Arminia",
-        "vpnLocked": true,
-        "vpnIso": "am",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AM-Yerevan%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Argentina",
-        "vpnLocked": true,
-        "vpnIso": "ar",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AR-Buenos%20Aires-TCP.ovpn"
-      },
-      {
-        "vpnName": "Austria",
-        "vpnLocked": true,
-        "vpnIso": "at",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AT-Vienna-TCP.ovpn"
-      },
-      {
-        "vpnName": "Australia",
-        "vpnLocked": true,
-        "vpnIso": "au",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AU-Adelaide-TCP.ovpn"
-      },
-      {
-        "vpnName": "Azerbaijan",
-        "vpnLocked": true,
-        "vpnIso": "az",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AZ-Baku%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Bosnia and Herzegovina",
-        "vpnLocked": true,
-        "vpnIso": "ba",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-BA-Sarajevo%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Bangladesh",
-        "vpnLocked": false,
-        "vpnIso": "bd",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-BD-Dhaka%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Belgium",
-        "vpnLocked": true,
-        "vpnIso": "be",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-BE-Brussels-TCP.ovpn"
-      },
-      {
-        "vpnName": "Brunei",
-        "vpnLocked": false,
-        "vpnIso": "bn",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-BN-Bandar%20Seri%20Begawan%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Japan",
-        "vpnLocked": true,
-        "vpnIso": "jp",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-JP-Tokyo-TCP.ovpn"
-      },
-      {
-        "vpnName": "Japan-Osaka",
-        "vpnLocked": true,
-        "vpnIso": "jp",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-JP-Osaka-TCP.ovpn"
-      },
-      {
-        "vpnName": "Italy",
-        "vpnLocked": true,
-        "vpnIso": "it",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-IT-Milan-TCP.ovpn"
-      },
-      {
-        "vpnName": "Hong Kong",
-        "vpnLocked": true,
-        "vpnIso": "hk",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-HK-Hong%20Kong-TCP.ovpn"
-      },
-      {
-        "vpnName": "France",
-        "vpnLocked": true,
-        "vpnIso": "fr",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-FR-Paris-TCP.ovpn"
-      },
-      {
-        "vpnName": "United Kingdom",
-        "vpnLocked": true,
-        "vpnIso": "gb",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-UK-London-TCP.ovpn"
-      },
-      {
-        "vpnName": "united-states",
-        "vpnLocked": true,
-        "vpnIso": "us",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Ashburn-TCP.ovpn"
-      },
-      {
-        "vpnName": "united-states-Atlanta",
-        "vpnLocked": true,
-        "vpnIso": "us",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Atlanta-TCP.ovpn"
-      },
-      {
-        "vpnName": "united-states-Boston",
-        "vpnLocked": true,
-        "vpnIso": "us",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-US-Boston-TCP.ovpn"
-      }
-    ]
-  }
+  ]
 }
