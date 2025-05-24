@@ -301,7 +301,7 @@
         "vpnName": "Hong Kong",
         "vpnLocked": true,
         "vpnIso": "hk",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/honkong/refs/heads/main/NCVPN-HK-Hong%20Kong-TCP.ovpn"
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-HK-Hong%20Kong-TCP.ovpn"
       },
       {
         "vpnName": "France",
