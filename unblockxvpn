@@ -2,40 +2,43 @@
  
   "AppRedirect": {
     "status": false,
-    "redirectURL": ""
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
   },
   
   
    "AdsController": {
 
-    "AdInterval"          : 1,
+    "AdInterval"          : 2,
 
-
+    "HuaweiAppId"         : "112744317",
     
-    "HuaweiBanner"        : "testw6vs28auh3",
-    "HuaweiInterstitialAd": "testb4znbuh3n2",
-    "HuaweiRewardAd"      : "testx9dtjwj8hp",
-    "HuaweiNativeAd"      : "testy63txaom86",
+    "HuaweiBanner"        : "l3nixk2wrw",
+    "HuaweiInterstitialAd": "k99sik6t6g",
+    "HuaweiRewardAd"      : "w6b962cdl4",
+    "HuaweiNativeAd"      : "w512rjoovv",
     "NativeAdRow"         : 3
 
   },
   
   
   "VpnController": {
-    "VpnUserName": "7yJXLkNRHvH4DO2B",
-    "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
+      
+    "VpnUserName": "ncpnazih1984@namecheap",
+    "VpnPassword": "PbzlcEnJrT",
     "VpnList": [
+      
       {
-        "name": "Deutschland",
-            "flag_icon": "de",
-            "ovpn_file": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+        "vpnName"  : "Andorra",
+        "vpnLocked": false,
+        "vpnIso"   : "ad",
+        "vpnFile"  : "https://stickersm.com/VPN/server/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn"
       },
       
       {
-        "name": "Emirates-",
-        "vpnIso"   : "ad",
+        "vpnName": "Emarat",
         "vpnLocked": false,
-            "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
+        "vpnIso": "ae",
+        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-AE-Dubai-TCP.ovpn"
       },
       {
         "vpnName": "Albania",
@@ -298,7 +301,7 @@
         "vpnName": "Hong Kong",
         "vpnLocked": true,
         "vpnIso": "hk",
-        "vpnFile": "https://stickersm.com/VPN/server/NCVPN-HK-Hong%20Kong-TCP.ovpn"
+        "vpnFile": "https://github.com/Aftabwazir/honkong/blob/main/NCVPN-HK-Hong%20Kong-TCP.ovpn"
       },
       {
         "vpnName": "France",
