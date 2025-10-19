@@ -1,19 +1,22 @@
 {
+ 
   "AppRedirect": {
     "status": false,
     "redirectURL": "https://appgallery.huawei.com/app/C114185681"
   },
+  
+  
+   "AdsController": {
 
-  "AdsController": {
-    "AdInterval": 1,
+    "AdInterval"          : 1,
 
-    "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-    "AdmobInterstitialAd": "ca-app-pub-3940256099942544/1033173712",
-    "AdmobRewardAd": "ca-app-pub-3940256099942544/5224354917",
-    "AdmobNativeAd": "ca-app-pub-3940256099942544/2247696110",
-
-  "NativeAdRow"         : 3
+    "HuaweiAppId"         : "114185681",
+    
+    "HuaweiBanner"        : "testw6vs28auh3",
+    "HuaweiInterstitialAd": "testb4znbuh3n2",
+    "HuaweiRewardAd"      : "testx9dtjwj8hp",
+    "HuaweiNativeAd"      : "testy63txaom86",
+    "NativeAdRow"         : 3
 
   },
 
