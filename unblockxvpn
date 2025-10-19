@@ -1,27 +1,23 @@
 {
-  "AppRedirect": {
-    "status": false
-  },
-
   "AdsController": {
-    "README": "Only Yandex ads are enabled in this configuration.",
+    "README": "Only Huawei test ads are enabled in this configuration.",
 
-    "BannerNetwork": "yandex",
-    "InterstitialNetwork": "yandex",
-    "InterstitialNetworkHome": "yandex",
-    "RewardNetwork": "yandex",
-    "NativeNetwork": "yandex",
+    "BannerNetwork": "hws",
+    "InterstitialNetwork": "hws",
+    "InterstitialNetworkHome": "hws",
+    "RewardNetwork": "hws",
+    "NativeNetwork": "hws",
 
     "AdInterval": 2,
     "NativeAdRow": 3,
     "ShowPaydialogtime": 30,
 
     "AdPlacement": {
-      "YandexBanner": "R-M-17469567-1",
-      "YandexInterstitial": "R-M-17469567-3",
-      "YandexInterstitialHome": "R-M-17469567-3",
-      "YandexReward": "demo-rewarded-yandex",
-      "YandexNative": "R-M-17469567-2"
+      "HuaweiBanner": "testw6vs28auh3",
+      "HuaweiInterstitial": "testb4znbuh3n2",
+      "HuaweiInterstitialHome": "testb4znbuh3n2",
+      "HuaweiReward": "testx9dtjwj8hp",
+      "HuaweiNative": "testu7m3hc4gvm"
     }
   },
 
