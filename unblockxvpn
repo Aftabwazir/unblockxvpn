@@ -1,24 +1,23 @@
 {
-  "AdsController": {
-    "README": "Only Huawei test ads are enabled in this configuration.",
+ 
+  "AppRedirect": {
+    "status": false,
+    "redirectURL": "https://appgallery.huawei.com/app/C114185681"
+  },
+  
+  
+   "AdsController": {
 
-    "BannerNetwork": "hws",
-    "InterstitialNetwork": "hws",
-    "InterstitialNetworkHome": "hws",
-    "RewardNetwork": "hws",
-    "NativeNetwork": "hws",
+    "AdInterval"          : 1,
 
-    "AdInterval": 2,
-    "NativeAdRow": 3,
-    "ShowPaydialogtime": 30,
+    "HuaweiAppId"         : "114185681",
+    
+    "HuaweiBanner"        : "testw6vs28auh3",
+    "HuaweiInterstitialAd": "testb4znbuh3n2",
+    "HuaweiRewardAd"      : "testx9dtjwj8hp",
+    "HuaweiNativeAd"      : "testy63txaom86",
+    "NativeAdRow"         : 3
 
-    "AdPlacement": {
-      "HuaweiBanner": "testw6vs28auh3",
-      "HuaweiInterstitial": "testb4znbuh3n2",
-      "HuaweiInterstitialHome": "testb4znbuh3n2",
-      "HuaweiReward": "testx9dtjwj8hp",
-      "HuaweiNative": "testu7m3hc4gvm"
-    }
   },
 
   "VpnController": {
