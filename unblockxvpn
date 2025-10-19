@@ -1,164 +1,95 @@
 {
-  "AppRedirect": {
-    "status": false,
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
-  },
-
-  "AdsController": {
-    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'",
-    "status": true,
-    "ads_sequence": "admob",
-    "BackupAds": "applovin"
-  },
-
-  "ServerList": {
-    "status": 1,
-    "message": "Success",
-    "servers": [
-      {
-        "server_id": "1",
-        "ServerStatus": "1",
-        "HostName": "Auto Select",
-        "city": "Random Server",
-        "Flag": "",
-        "IP": "62.210.99.72",
-        "certificate": "f_0",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "10",
-        "ServerStatus": "1",
-        "HostName": "Not Connect? Slow Speed?",
-        "city": "Change the Server",
-        "Flag": "",
-        "IP": "62.210.99.197",
-        "certificate": "ic_alerts_and_states_warning",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "18",
-        "ServerStatus": "1",
-        "HostName": "Australia",
-        "city": "Sydney",
-        "Flag": "",
-        "IP": "62.210.205.50",
-        "certificate": "australia",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "20",
-        "ServerStatus": "1",
-        "HostName": "Australia",
-        "city": "Sydney",
-        "Flag": "",
-        "IP": "62.210.38.192",
-        "certificate": "australia",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "25",
-        "ServerStatus": "1",
-        "HostName": "Belgium",
-        "city": "Blussel",
-        "Flag": "",
-        "IP": "62.210.113.74",
-        "certificate": "belgium",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "27",
-        "ServerStatus": "1",
-        "HostName": "Belgium",
-        "city": "Blussel",
-        "Flag": "",
-        "IP": "195.154.184.118",
-        "certificate": "belgium",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "30",
-        "ServerStatus": "1",
-        "HostName": "Canada",
-        "city": "Toronto",
-        "Flag": "",
-        "IP": "62.210.114.108",
-        "certificate": "canada",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "32",
-        "ServerStatus": "1",
-        "HostName": "Canada",
-        "city": "Toronto",
-        "Flag": "",
-        "IP": "62.210.38.71",
-        "certificate": "canada",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "34",
-        "ServerStatus": "1",
-        "HostName": "Canada",
-        "city": "Toronto",
-        "Flag": "",
-        "IP": "62.210.207.86",
-        "certificate": "canada",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "36",
-        "ServerStatus": "1",
-        "HostName": "Canada",
-        "city": "Toronto",
-        "Flag": "",
-        "IP": "195.154.200.92",
-        "certificate": "canada",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "60",
-        "ServerStatus": "1",
-        "HostName": "France",
-        "city": "Paris",
-        "Flag": "",
-        "IP": "62.210.97.68",
-        "certificate": "france",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      },
-      {
-        "server_id": "500",
-        "ServerStatus": "1",
-        "HostName": "United Arab Emirates",
-        "city": "Dubai",
-        "Flag": "",
-        "IP": "62.210.113.159",
-        "certificate": "united_arab_emirates",
-        "type": "1",
-        "username": "hafizastore",
-        "password": "hafizastore"
-      }
-    ]
-  }
-}
+  "status": 1,
+  "message": "Success",
+  "servers": [
+    {
+      "server_id": 1,
+      "ServerStatus": 1,
+      "HostName": "Auto Select",
+      "city": "Random Server",
+      "Flag": "",
+      "IP": "62.210.99.72",
+      "certificate": "f_0",
+      "type": 1,
+      "username": "hafizastore",
+      "password": "hafizastore"
+    },
+    {
+      "server_id": 10,
+      "ServerStatus": 1,
+      "HostName": "Not Connect? Slow Speed?",
+      "city": "Change the Server",
+      "Flag": "",
+      "IP": "62.210.99.197",
+      "certificate": "ic_alerts_and_states_warning",
+      "type": 1,
+      "username": "hafizastore",
+      "password": "hafizastore"
+    },
+    {
+      "server_id": 18,
+      "ServerStatus": 1,
+      "HostName": "Australia",
+      "city": "Sydney",
+      "Flag": "",
+      "IP": "62.210.205.50",
+      "certificate": "australia",
+      "type": 1,
+      "username": "hafizastore",
+      "password": "hafizastore"
+    },
+    {
+      "server_id": 20,
+      "ServerStatus": 1,
+      "HostName": "Australia",
+      "city": "Sydney",
+      "Flag": "",
+      "IP": "62.210.38.192",
+      "certificate": "australia",
+      "type": 1,
+      "username": "hafizastore",
+      "password": "hafizastore"
+    },
+    {
+      "server_id": 25,
+      "ServerStatus": 1,
+      "HostName": "Belgium",
+      "city": "Blussel",
+      "Flag": "",
+      "IP": "62.210.113.74",
+      "certificate": "belgium",
+      "type": 1,
+      "username": "hafizastore",
+      "password": "hafizastore"
+    },
+    {
+      "server_id": 27,
+      "ServerStatus": 1,
+      "HostName": "Belgium",
+      "city": "Blussel",
+      "Flag": "",
+      "IP": "195.154.184.118",
+      "certificate": "belgium",
+      "type": 1,
+      "username": "hafizastore",
+      "password": "hafizastore"
+    },
+    {
+      "server_id": 30,
+      "ServerStatus": 1,
+      "HostName": "Canada",
+      "city": "Toronto",
+      "Flag": "",
+      "IP": "62.210.114.108",
+      "certificate": "canada",
+      "type": 1,
+      "username": "hafizastore",
+      "password": "hafizastore"
+    },
+    {
+      "server_id": 36,
+      "ServerStatus": 1,
+      "HostName": "Canada",
+      "city": "Toronto",
+      "Flag": "",
+      "IP": "195.154.200.92
