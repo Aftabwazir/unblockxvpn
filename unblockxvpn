@@ -17,11 +17,11 @@
     "ShowPaydialogtime": 30,
 
     "AdPlacement": {
-      "YandexBanner": "demo-banner-yandex",
-      "YandexInterstitial": "demo-interstitial-yandex",
-      "YandexInterstitialHome": "demo-interstitial-yandex",
+      "YandexBanner": "R-M-17469567-1",
+      "YandexInterstitial": "R-M-17469567-3",
+      "YandexInterstitialHome": "R-M-17469567-3",
       "YandexReward": "demo-rewarded-yandex",
-      "YandexNative": "demo-native-app-yandex"
+      "YandexNative": "R-M-17469567-2"
     }
   },
 
