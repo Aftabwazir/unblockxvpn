@@ -5,13 +5,13 @@
   },
 
   "AdsController": {
-    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
+    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'Huawei'  , 'yandex'",
 
-    "BannerNetwork": "yandex",
-    "InterstitialNetwork": "yandex",
-    "InterstitialNetworkHome": "yandex",
-    "RewardNetwork": "yandex",
-    "NativeNetwork": "yandex",
+    "BannerNetwork": "Huawei",
+    "InterstitialNetwork": "Huawei",
+    "InterstitialNetworkHome": "Huawei",
+    "RewardNetwork": "Huawei",
+    "NativeNetwork": "Huawei",
 
     "AdInterval": 4,
     "NativeAdRow": 3,
