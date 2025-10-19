@@ -1,95 +1,154 @@
 {
-  "status": 1,
-  "message": "Success",
-  "servers": [
-    {
-      "server_id": 1,
-      "ServerStatus": 1,
-      "HostName": "Auto Select",
-      "city": "Random Server",
-      "Flag": "",
-      "IP": "62.210.99.72",
-      "certificate": "f_0",
-      "type": 1,
-      "username": "hafizastore",
-      "password": "hafizastore"
-    },
-    {
-      "server_id": 10,
-      "ServerStatus": 1,
-      "HostName": "Not Connect? Slow Speed?",
-      "city": "Change the Server",
-      "Flag": "",
-      "IP": "62.210.99.197",
-      "certificate": "ic_alerts_and_states_warning",
-      "type": 1,
-      "username": "hafizastore",
-      "password": "hafizastore"
-    },
-    {
-      "server_id": 18,
-      "ServerStatus": 1,
-      "HostName": "Australia",
-      "city": "Sydney",
-      "Flag": "",
-      "IP": "62.210.205.50",
-      "certificate": "australia",
-      "type": 1,
-      "username": "hafizastore",
-      "password": "hafizastore"
-    },
-    {
-      "server_id": 20,
-      "ServerStatus": 1,
-      "HostName": "Australia",
-      "city": "Sydney",
-      "Flag": "",
-      "IP": "62.210.38.192",
-      "certificate": "australia",
-      "type": 1,
-      "username": "hafizastore",
-      "password": "hafizastore"
-    },
-    {
-      "server_id": 25,
-      "ServerStatus": 1,
-      "HostName": "Belgium",
-      "city": "Blussel",
-      "Flag": "",
-      "IP": "62.210.113.74",
-      "certificate": "belgium",
-      "type": 1,
-      "username": "hafizastore",
-      "password": "hafizastore"
-    },
-    {
-      "server_id": 27,
-      "ServerStatus": 1,
-      "HostName": "Belgium",
-      "city": "Blussel",
-      "Flag": "",
-      "IP": "195.154.184.118",
-      "certificate": "belgium",
-      "type": 1,
-      "username": "hafizastore",
-      "password": "hafizastore"
-    },
-    {
-      "server_id": 30,
-      "ServerStatus": 1,
-      "HostName": "Canada",
-      "city": "Toronto",
-      "Flag": "",
-      "IP": "62.210.114.108",
-      "certificate": "canada",
-      "type": 1,
-      "username": "hafizastore",
-      "password": "hafizastore"
-    },
-    {
-      "server_id": 36,
-      "ServerStatus": 1,
-      "HostName": "Canada",
-      "city": "Toronto",
-      "Flag": "",
-      "IP": "195.154.200.92
+  "AppRedirect": {
+    "status": false
+  },
+
+  "AdsController": {
+    "README": "Only Yandex ads are enabled in this configuration.",
+
+    "BannerNetwork": "yandex",
+    "InterstitialNetwork": "yandex",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork": "yandex",
+    "NativeNetwork": "yandex",
+
+    "AdInterval": 2,
+    "NativeAdRow": 3,
+    "ShowPaydialogtime": 30,
+
+    "AdPlacement": {
+      "YandexBanner": "demo-banner-yandex",
+      "YandexInterstitial": "demo-interstitial-yandex",
+      "YandexInterstitialHome": "demo-interstitial-yandex",
+      "YandexReward": "demo-rewarded-yandex",
+      "YandexNative": "demo-native-app-yandex"
+    }
+  },
+
+  "VpnController": {
+    "VpnUserName": "7yJXLkNRHvH4DO2B",
+    "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
+    "VpnList": [
+      {
+        "vpnName": "Emirates",
+        "vpnLocked": true,
+        "vpnIso": "ae",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
+      },
+      {
+        "vpnName": "Deutschland",
+        "vpnLocked": false,
+        "vpnIso": "de",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Saudi Arabia",
+        "vpnLocked": true,
+        "vpnIso": "sa",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
+      },
+      {
+        "vpnName": "United States",
+        "vpnLocked": false,
+        "vpnIso": "us",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
+      },
+      {
+        "vpnName": "United Kingdom",
+        "vpnLocked": false,
+        "vpnIso": "gb",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/uk.ovpn"
+      },
+      {
+        "vpnName": "France",
+        "vpnLocked": false,
+        "vpnIso": "fr",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Italy",
+        "vpnLocked": false,
+        "vpnIso": "it",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Spain",
+        "vpnLocked": false,
+        "vpnIso": "es",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Netherlands",
+        "vpnLocked": false,
+        "vpnIso": "nl",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Sweden",
+        "vpnLocked": true,
+        "vpnIso": "se",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Norway",
+        "vpnLocked": true,
+        "vpnIso": "no",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Finland",
+        "vpnLocked": false,
+        "vpnIso": "fi",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Switzerland",
+        "vpnLocked": false,
+        "vpnIso": "ch",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Belgium",
+        "vpnLocked": false,
+        "vpnIso": "be",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Austria",
+        "vpnLocked": false,
+        "vpnIso": "at",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Poland",
+        "vpnLocked": false,
+        "vpnIso": "pl",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Canada",
+        "vpnLocked": false,
+        "vpnIso": "ca",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "China",
+        "vpnLocked": true,
+        "vpnIso": "cn",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "India",
+        "vpnLocked": false,
+        "vpnIso": "in",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Morocco",
+        "vpnLocked": true,
+        "vpnIso": "ma",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      }
+    ]
+  }
+}
