@@ -1,209 +1,174 @@
 {
- 
   "AppRedirect": {
     "status": false,
     "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
   },
-  
-  
-  
-  
-   "AdsController": {
 
+  "AdsController": {
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
 
-
-    "BannerNetwork"          : "hws",
-    "InterstitialNetwork"    : "hws",
+    "BannerNetwork": "hws",
+    "InterstitialNetwork": "hws",
     "InterstitialNetworkHome": "hws",
-    "RewardNetwork"          : "hws",
-    "NativeNetwork"          : "hws",
-    
-    "AdInterval"          : 4,
-    "NativeAdRow"         : 3,
-    "ShowPaydialogtime"   : 30,
+    "RewardNetwork": "hws",
+    "NativeNetwork": "hws",
+
+    "AdInterval": 4,
+    "NativeAdRow": 3,
+    "ShowPaydialogtime": 30,
 
     "AdPlacement": {
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialHome": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
+      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
 
-      "AdMobBanner"           : "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial"     : "ca-app-pub-3940256099942544/1033173712",
-      "AdMobInterstitialHome" : "ca-app-pub-3940256099942544/1033173712",
-      "AdMobReward"           : "ca-app-pub-3940256099942544/5224354917",
-      "AdMobNative"           : "ca-app-pub-3940256099942544/2247696110",
-      
-      
-      "ApplovinKey"             : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
-      "ApplovinBanner"          : "da17eff31ae69f15",
-      "ApplovinInterstitial"    : "98f6a586ed642919",
+      "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "ApplovinBanner": "da17eff31ae69f15",
+      "ApplovinInterstitial": "98f6a586ed642919",
       "ApplovinInterstitialHome": "98f6a586ed642919",
-      "ApplovinReward"          : "98f6a586ed642919",
-      "ApplovinNative"          : "98f6a586ed642919",
+      "ApplovinReward": "98f6a586ed642919",
+      "ApplovinNative": "98f6a586ed642919",
 
-      "HuaweiAppId"           : "",
-      "HuaweiBanner"          : "testw6vs28auh3",
-      "HuaweiInterstitial"    : "teste9ih9j0rc3",
+      "HuaweiAppId": "",
+      "HuaweiBanner": "testw6vs28auh3",
+      "HuaweiInterstitial": "teste9ih9j0rc3",
       "HuaweiInterstitialHome": "teste9ih9j0rc3",
-      "HuaweiReward"          : "testx9dtjwj8hp",
-      "HuaweiNative"          : "testu7m3hc4gvm",
-      
-      "YandexBanner"          : "demo-banner-yandex",
-      "YandexInterstitial"    : "demo-interstitial-yandex",
+      "HuaweiReward": "testx9dtjwj8hp",
+      "HuaweiNative": "testu7m3hc4gvm",
+
+      "YandexBanner": "demo-banner-yandex",
+      "YandexInterstitial": "demo-interstitial-yandex",
       "YandexInterstitialHome": "demo-interstitial-yandex",
-      "YandexReward"          : "demo-rewarded-yandex",
-      "YandexNative"          : "demo-native-app-yandex"
-
+      "YandexReward": "demo-rewarded-yandex",
+      "YandexNative": "demo-native-app-yandex"
     }
-
   },
-  
 
-    "VpnController": {
-    "VpnUserName": "ncpnazih1984@namecheap",
-    "VpnPassword": "PbzlcEnJrT",
+  "VpnController": {
+    "VpnUserName": "7yJXLkNRHvH4DO2B",
+    "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
     "VpnList": [
       {
-        "vpnName": "Andorra",
-        "vpnLocked": true,
-        "vpnIso": "ad",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Emarat",
+        "vpnName": "Emirates",
         "vpnLocked": true,
         "vpnIso": "ae",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AE-Dubai-TCP.ovpn"
-      },
-      {
-        "vpnName": "Albania",
-        "vpnLocked": false,
-        "vpnIso": "al",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AL-Tirana-TCP.ovpn"
-      },
-      {
-        "vpnName": "Arminia",
-        "vpnLocked": true,
-        "vpnIso": "am",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AM-Yerevan%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Argentina",
-        "vpnLocked": false,
-        "vpnIso": "ar",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AR-Buenos%20Aires-TCP.ovpn"
-      },
-      {
-        "vpnName": "Austria",
-        "vpnLocked": false,
-        "vpnIso": "at",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AT-Vienna-TCP.ovpn"
-      },
-      {
-        "vpnName": "Australia",
-        "vpnLocked": true,
-        "vpnIso": "au",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AU-Adelaide-TCP.ovpn"
-      },
-      {
-        "vpnName": "Azerbaijan",
-        "vpnLocked": true,
-        "vpnIso": "az",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AZ-Baku%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Bosnia and Herzegovina",
-        "vpnLocked": false,
-        "vpnIso": "ba",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-BA-Sarajevo%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Bangladesh",
-        "vpnLocked": true,
-        "vpnIso": "bd",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-BD-Dhaka%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Belgium",
-        "vpnLocked": true,
-        "vpnIso": "be",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-BE-Brussels-TCP.ovpn"
-      },
-      {
-        "vpnName": "Brunei",
-        "vpnLocked": false,
-        "vpnIso": "bn",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-BN-Bandar%20Seri%20Begawan%20-%20Virtual-TCP.ovpn"
-      },
-      {
-        "vpnName": "Australia-Perth",
-        "vpnLocked": true,
-        "vpnIso": "au",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-AU-Perth-TCP.ovpn"
-      },
-      {
-        "vpnName": "Canada-Montreal",
-        "vpnLocked": true,
-        "vpnIso": "ca",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-CA-Montreal-TCP.ovpn"
-      },
-      {
-        "vpnName": "Canada-Toronto",
-        "vpnLocked": true,
-        "vpnIso": "ca",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-CA-Toronto-TCP.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
       },
       {
         "vpnName": "Deutschland",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "de",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-DE-Frankfurt-TCP.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
         "vpnName": "Saudi Arabia",
         "vpnLocked": true,
         "vpnIso": "sa",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-SA-Jeddah%20-%20Virtual-TCP.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
       },
       {
-        "vpnName": "Ukraine",
-        "vpnLocked": true,
-        "vpnIso": "ua",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-UA-Kyiv-TCP.ovpn"
-      },
-      {
-        "vpnName": "Turkiye",
-        "vpnLocked": true,
-        "vpnIso": "tr",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-TR-Istanbul-TCP.ovpn"
-      },
-      {
-        "vpnName": "Portugal",
+        "vpnName": "United States",
         "vpnLocked": false,
-        "vpnIso": "pt",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-PT-Lisbon-TCP.ovpn"
+        "vpnIso": "us",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
       },
       {
-        "vpnName": "Poland",
+        "vpnName": "United Kingdom",
         "vpnLocked": false,
-        "vpnIso": "pl",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-PL-Warsaw-TCP.ovpn"
+        "vpnIso": "gb",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/uk.ovpn"
+      },
+      {
+        "vpnName": "France",
+        "vpnLocked": false,
+        "vpnIso": "fr",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Italy",
+        "vpnLocked": false,
+        "vpnIso": "it",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Spain",
+        "vpnLocked": false,
+        "vpnIso": "es",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
         "vpnName": "Netherlands",
         "vpnLocked": false,
         "vpnIso": "nl",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-NL-Amsterdam-TCP.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
-        "vpnName": "Monaco",
+        "vpnName": "Sweden",
         "vpnLocked": true,
-        "vpnIso": "mc",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-MC-Monaco%20-%20Virtual-TCP.ovpn"
+        "vpnIso": "se",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
-        "vpnName": "Luxembourg",
+        "vpnName": "Norway",
+        "vpnLocked": true,
+        "vpnIso": "no",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Finland",
         "vpnLocked": false,
-        "vpnIso": "lu",
-        "vpnFile": "https://ayoubdev.store/connect/NCVPN-LU-Luxembourg-TCP.ovpn"
+        "vpnIso": "fi",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Switzerland",
+        "vpnLocked": false,
+        "vpnIso": "ch",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Belgium",
+        "vpnLocked": false,
+        "vpnIso": "be",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Austria",
+        "vpnLocked": false,
+        "vpnIso": "at",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Poland",
+        "vpnLocked": false,
+        "vpnIso": "pl",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Canada",
+        "vpnLocked": false,
+        "vpnIso": "ca",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "China",
+        "vpnLocked": true,
+        "vpnIso": "cn",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "India",
+        "vpnLocked": false,
+        "vpnIso": "in",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Morocco",
+        "vpnLocked": true,
+        "vpnIso": "ma",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       }
     ]
   }
