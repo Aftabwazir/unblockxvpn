@@ -1,155 +1,178 @@
 {
- 
-  "AppRedirect": {
-    "status": false,
-    "redirectURL": "https://appgallery.huawei.com/app/C114185681"
-  },
-  
-  
-   "AdsController": {
-
-    "AdInterval"          : 1,
-
-    "HuaweiAppId"         : "114185681",
-    
-    "HuaweiBanner"        : "testw6vs28auh3",
-    "HuaweiInterstitialAd": "testb4znbuh3n2",
-    "HuaweiRewardAd"      : "testx9dtjwj8hp",
-    "HuaweiNativeAd"      : "testy63txaom86",
-    "NativeAdRow"         : 3
-
-  },
-
-  "VpnController": {
-    "VpnUserName": "7yJXLkNRHvH4DO2B",
-    "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
-    "VpnList": [
-      {
-        "vpnName": "Emirates",
-        "vpnLocked": true,
-        "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
-      },
-      {
-        "vpnName": "Deutschland",
-        "vpnLocked": false,
-        "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Saudi Arabia",
-        "vpnLocked": true,
-        "vpnIso": "sa",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
-      },
-      {
-        "vpnName": "United States",
-        "vpnLocked": false,
-        "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
-      },
-      {
-        "vpnName": "United Kingdom",
-        "vpnLocked": false,
-        "vpnIso": "gb",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/uk.ovpn"
-      },
-      {
-        "vpnName": "France",
-        "vpnLocked": false,
-        "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Italy",
-        "vpnLocked": false,
-        "vpnIso": "it",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Spain",
-        "vpnLocked": false,
-        "vpnIso": "es",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Netherlands",
-        "vpnLocked": false,
-        "vpnIso": "nl",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Sweden",
-        "vpnLocked": true,
-        "vpnIso": "se",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Norway",
-        "vpnLocked": true,
-        "vpnIso": "no",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Finland",
-        "vpnLocked": false,
-        "vpnIso": "fi",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Switzerland",
-        "vpnLocked": false,
-        "vpnIso": "ch",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-{
-  "vpnName": "Thailand",
-  "vpnLocked": false,
-  "vpnIso": "th",
-  "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/Thailand.ovpn/refs/heads/main/thailand.ovpn"
-},
-      {
-        "vpnName": "Belgium",
-        "vpnLocked": false,
-        "vpnIso": "be",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Austria",
-        "vpnLocked": false,
-        "vpnIso": "at",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Poland",
-        "vpnLocked": false,
-        "vpnIso": "pl",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Canada",
-        "vpnLocked": false,
-        "vpnIso": "ca",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "China",
-        "vpnLocked": true,
-        "vpnIso": "cn",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "India",
-        "vpnLocked": false,
-        "vpnIso": "in",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Morocco",
-        "vpnLocked": true,
-        "vpnIso": "ma",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      }
-    ]
-  }
+  "status": 1,
+  "message": "Success",
+  "servers": [
+    {
+      "server_id": "1",
+      "hostname": "Auto Select",
+      "flag": "f_0",
+      "ip": "54.37.136.50",
+      "status": "1",
+      "type": "1",
+      "Priority": "1"
+    },
+    {
+      "server_id": "2",
+      "hostname": "United States",
+      "flag": "united_states_of_america",
+      "ip": "207.244.245.165",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "3",
+      "hostname": "Germany",
+      "flag": "germany",
+      "ip": "49.12.226.193",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "4",
+      "hostname": "Finland",
+      "flag": "finland",
+      "ip": "65.108.50.198",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "5",
+      "hostname": "United Kingdom",
+      "flag": "united_kingdom",
+      "ip": "51.68.199.28",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "6",
+      "hostname": "Poland",
+      "flag": "poland",
+      "ip": "54.37.136.50",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "7",
+      "hostname": "Netherlands",
+      "flag": "netherlands",
+      "ip": "185.186.244.125",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "8",
+      "hostname": "Canada",
+      "flag": "canada",
+      "ip": "185.186.244.125",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "9",
+      "hostname": "United Kingdom",
+      "flag": "united_kingdom",
+      "ip": "45.90.58.90",
+      "status": "1",
+      "type": "2",
+      "Priority": "0"
+    },
+    {
+      "server_id": "10",
+      "hostname": "France",
+      "flag": "france",
+      "ip": "45.90.58.90",
+      "status": "1",
+      "type": "2",
+      "Priority": "0"
+    },
+    {
+      "server_id": "11",
+      "hostname": "China",
+      "flag": "china",
+      "ip": "45.90.58.90",
+      "status": "1",
+      "type": "2",
+      "Priority": "0"
+    },
+    {
+      "server_id": "13",
+      "hostname": "Germany",
+      "flag": "germany",
+      "ip": "45.90.58.90",
+      "status": "1",
+      "type": "2",
+      "Priority": "0"
+    },
+    {
+      "server_id": "15",
+      "hostname": "Czech Republic",
+      "flag": "czechia",
+      "ip": "195.123.245.64",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "27",
+      "hostname": "Singapore",
+      "flag": "singapore",
+      "ip": "195.123.237.102",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "28",
+      "hostname": "Switzerland",
+      "flag": "switzerland",
+      "ip": "45.90.58.90",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "30",
+      "hostname": "India",
+      "flag": "india",
+      "ip": "195.123.237.102",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "31",
+      "hostname": "France",
+      "flag": "france",
+      "ip": "195.123.245.64",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "32",
+      "hostname": "Australia",
+      "flag": "australia",
+      "ip": "45.90.58.90",
+      "status": "1",
+      "type": "1",
+      "Priority": "0"
+    },
+    {
+      "server_id": "33",
+      "hostname": "Thailand",
+      "flag": "thailand",
+      "ip": "219.100.37.9",
+      "status": "1",
+      "type": "1",
+      "Priority": "0",
+      "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/Thailand.ovpn/refs/heads/main/thailand.ovpn"
+    }
+  ]
 }
