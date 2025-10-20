@@ -102,6 +102,12 @@
         "vpnIso": "ch",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
+{
+  "vpnName": "Thailand",
+  "vpnLocked": false,
+  "vpnIso": "th",
+  "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/Thailand.ovpn/refs/heads/main/thailand.ovpn"
+},
       {
         "vpnName": "Belgium",
         "vpnLocked": false,
