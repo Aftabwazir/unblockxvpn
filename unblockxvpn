@@ -23,8 +23,6 @@
   "VpnController": {
     "VpnUserName": "7yJXLkNRHvH4DO2B",
     "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
-"VpnUsername":"aRxsk8UnNGLvDPf7aymjv9kM",
-"VpnPassword":"GnKEn3nQJfkXTAfabUPqa3tB",
     "VpnList": [
       {
         "vpnName": "Emirates",
@@ -145,11 +143,6 @@
         "vpnLocked": true,
         "vpnIso": "ma",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-     {
-         "country":"Turkey",
-         "vpnLocked": false,
-         "vpnIso": "tr",
-         "vpnfile":"https://raw.githubusercontent.com/proman00014/forme/main/Turkey.ovpn"
    ]
       }
     ]
