@@ -143,10 +143,11 @@
         "vpnLocked": true,
         "vpnIso": "ma",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-     {"country":"Turkey",
-    "flag":"https://github.com/proman00014/forme/blob/main/Turkey.png?raw=true",
-    "file":"https://raw.githubusercontent.com/proman00014/forme/main/Turkey.ovpn",
-    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"}
+     {
+         "country":"Turkey",
+         "vpnLocked": false,
+         "vpnfile":"https://raw.githubusercontent.com/proman00014/forme/main/Turkey.ovpn",
+         "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"}
    ]
       }
     ]
