@@ -8,15 +8,15 @@
   
    "AdsController": {
 
-    "AdInterval"          : 1,
+    "AdInterval"          : 3,
 
     "HuaweiAppId"         : "114185681",
     
-    "HuaweiBanner"        : "testw6vs28auh3",
-    "HuaweiInterstitialAd": "testb4znbuh3n2",
-    "HuaweiRewardAd"      : "testx9dtjwj8hp",
-    "HuaweiNativeAd"      : "testy63txaom86",
-    "NativeAdRow"         : 3
+    "HuaweiBanner"        : "testw6vs28auh345",
+    "HuaweiInterstitialAd": "testb4znbuh3n245",
+    "HuaweiRewardAd"      : "testx9dtjwj8hp454",
+    "HuaweiNativeAd"      : "testy63txaom8646",
+    "NativeAdRow"         : 5
 
   },
 
@@ -26,7 +26,7 @@
     "VpnList": [
       {
         "vpnName": "Emirates",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "ae",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
       },
@@ -38,7 +38,7 @@
       },
       {
         "vpnName": "Saudi Arabia",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "sa",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
       },
@@ -80,13 +80,13 @@
       },
       {
         "vpnName": "Sweden",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "se",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
         "vpnName": "Norway",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "no",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
@@ -128,7 +128,7 @@
       },
       {
         "vpnName": "China",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "cn",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
@@ -140,7 +140,7 @@
       },
       {
         "vpnName": "Morocco",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "ma",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       }
