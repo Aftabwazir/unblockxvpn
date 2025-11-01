@@ -34,7 +34,7 @@
         "vpnName": "Deutschland",
         "vpnLocked": false,
         "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/de.ovpn"
       },
       {
         "vpnName": "Saudi Arabia",
