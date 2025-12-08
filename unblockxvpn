@@ -59,26 +59,38 @@
     "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
     "VpnList": [
       {
-        "vpnName": "Emirates",
+        "vpnName": "Arab Emirates 1",
         "vpnLocked": false,
         "vpnIso": "ae",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
+  {
+        "vpnName": "Arab Emirates 2",
+        "vpnLocked": false,
+        "vpnIso": "ae",
+        "vpnFile": "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
       },
       {
-        "vpnName": "Deutschland",
+        "vpnName": "Germany",
         "vpnLocked": false,
         "vpnIso": "de",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
-        "vpnName": "Saudi Arabia",
-        "vpnLocked": true,
+        "vpnName": "Saudi Arabia ",
+        "vpnLocked": false,
         "vpnIso": "sa",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
+        "vpnFile": "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
+{
+        "vpnName": "Saudi Arabia 2",
+        "vpnLocked": false,
+        "vpnIso": "sa",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
       },
       {
         "vpnName": "United States",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
       },
