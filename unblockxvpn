@@ -1,185 +1,74 @@
-{
-  "AppRedirect": {
-    "status": false,
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
-  },
+{"ads":{
+  
 
-  "AdsController": {
-    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
-    "BannerNetwork": "yandex",
-    "InterstitialNetwork": "yandex",
-    "InterstitialNetworkHome": "yandex",
-    "RewardNetwork": "yandex",
-    "NativeNetwork": "yandex",
-    "AdInterval": 3,
-    "NativeAdRow": 6,
 
-    "AdPlacement": {
-      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-      "AdMobInterstitialHome": "ca-app-pub-3940256099942544/1033173712",
-      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
-      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+   "ovpn_file":[
+  {"country":"usa",
+    "flag":"https://github.com/proman00014/forme/blob/main/usa.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/usa.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"uk",
+    "flag":"https://github.com/proman00014/forme/blob/main/uk.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/uk.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"canada",
+    "flag":"https://github.com/proman00014/forme/blob/main/canada.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/canada.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"france",
+    "flag":"https://github.com/proman00014/forme/blob/main/france.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/france.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"germany",
+    "flag":"https://github.com/proman00014/forme/blob/main/germany.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/germany.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"iceland",
+    "flag":"https://github.com/proman00014/forme/blob/main/iceland.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/iceland.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"italy",
+    "flag":"https://github.com/proman00014/forme/blob/main/italy.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/italy.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"japan",
+    "flag":"https://github.com/proman00014/forme/blob/main/japan.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/japan.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"mexico",
+    "flag":"https://github.com/proman00014/forme/blob/main/mexico.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/mexico.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"netherlands",
+    "flag":"https://github.com/proman00014/forme/blob/main/netherlands.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/netherlands.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"portugal",
+    "flag":"https://github.com/proman00014/forme/blob/main/portugal.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/portugal.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"south korea",
+    "flag":"https://github.com/proman00014/forme/blob/main/southkorea.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/southkorea.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"spain",
+    "flag":"https://github.com/proman00014/forme/blob/main/spain.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/spain.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"Switzerland",
+    "flag":"https://github.com/proman00014/forme/blob/main/Switzerland.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/Switzerland.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"},
+  {"country":"Turkey",
+    "flag":"https://github.com/proman00014/forme/blob/main/Turkey.png?raw=true",
+    "file":"https://raw.githubusercontent.com/proman00014/forme/main/Turkey.ovpn",
+    "username":"aRxsk8UnNGLvDPf7aymjv9kM","password":"GnKEn3nQJfkXTAfabUPqa3tB"}
+   ]
+ 
+  
 
-      "ApplovinKey": "",
-      "ApplovinBanner": "",
-      "ApplovinInterstitial": "",
-      "ApplovinInterstitialHome": "",
-      "ApplovinReward": "",
-      "ApplovinNative": "",
 
-      "HuaweiAppId": "",
-      "HuaweiBanner": "",
-      "HuaweiInterstitial": "",
-      "HuaweiInterstitialHome": "",
-      "HuaweiReward": "",
-      "HuaweiNative": "",
-
-      "YandexAppId": "17743441",
-      "YandexBanner": "R-M-17743441-1",
-      "YandexInterstitial": "R-M-17743441-3",
-      "YandexInterstitialHome": "R-M-17743441-3",
-      "YandexReward": "R-M-17743441-4",
-      "YandexNative": "R-M-17743441-2"
-    }
-  },
-
-  "VpnController": {
-    "VpnUserName": "7yJXLkNRHvH4DO2B",
-    "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
-    "VpnList": [
-      {
-        "vpnName": "Arab Emirates 1",
-        "vpnLocked": false,
-        "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
-      },
-      {
-        "vpnName": "Arab Emirates 2",
-        "vpnLocked": false,
-        "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Germany",
-        "vpnLocked": false,
-        "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "Saudi Arabia",
-        "vpnLocked": false,
-        "vpnIso": "sa",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
-      },
-      {
-        "vpnName": "Saudi Arabia 2",
-        "vpnLocked": false,
-        "vpnIso": "sa",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
-      },
-      {
-        "vpnName": "United States",
-        "vpnLocked": false,
-        "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
-      },
-      {
-        "vpnName": "United Kingdom",
-        "vpnLocked": false,
-        "vpnIso": "gb",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/uk.ovpn"
-      },
-      {
-        "vpnName": "France",
-        "vpnLocked": false,
-        "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/fr.ovpn"
-      },
-      {
-        "vpnName": "Italy",
-        "vpnLocked": false,
-        "vpnIso": "it",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/it.ovpn"
-      },
-      {
-        "vpnName": "Spain",
-        "vpnLocked": false,
-        "vpnIso": "es",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/es.ovpn"
-      },
-      {
-        "vpnName": "Netherlands",
-        "vpnLocked": true,
-        "vpnIso": "nl",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/nl.ovpn"
-      },
-      {
-        "vpnName": "Sweden",
-        "vpnLocked": false,
-        "vpnIso": "se",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/se.ovpn"
-      },
-      {
-        "vpnName": "Norway",
-        "vpnLocked": false,
-        "vpnIso": "no",
-        "vpnFile": "https://raw.githubusercontent.com/Zoult/.ovpn/refs/heads/main/Emirates/IPS_77.105.136.29_udp_40268.ovpn"
-      },
-      {
-        "vpnName": "Finland",
-        "vpnLocked": false,
-        "vpnIso": "fi",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/fi.ovpn"
-      },
-      {
-        "vpnName": "Switzerland",
-        "vpnLocked": false,
-        "vpnIso": "ch",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/ch.ovpn"
-      },
-      {
-        "vpnName": "Belgium",
-        "vpnLocked": false,
-        "vpnIso": "be",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/be.ovpn"
-      },
-      {
-        "vpnName": "Austria",
-        "vpnLocked": false,
-        "vpnIso": "at",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/at.ovpn"
-      },
-      {
-        "vpnName": "Poland",
-        "vpnLocked": false,
-        "vpnIso": "pl",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/pl.ovpn"
-      },
-      {
-        "vpnName": "Canada",
-        "vpnLocked": false,
-        "vpnIso": "ca",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/ca.ovpn"
-      },
-      {
-        "vpnName": "China",
-        "vpnLocked": false,
-        "vpnIso": "cn",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/cn.ovpn"
-      },
-      {
-        "vpnName": "India",
-        "vpnLocked": true,
-        "vpnIso": "in",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/in.ovpn"
-      },
-      {
-        "vpnName": "Morocco",
-        "vpnLocked": false,
-        "vpnIso": "ma",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/ma.ovpn"
-      }
-    ]
-  }
 }
+ 
+}
+   
