@@ -58,7 +58,7 @@
         "vpnName": "Arab Emirates 2",
         "vpnLocked": false,
         "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
         "vpnName": "Germany",
@@ -76,7 +76,7 @@
         "vpnName": "Saudi Arabia 2",
         "vpnLocked": false,
         "vpnIso": "sa",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
         "vpnName": "United States",
