@@ -52,13 +52,13 @@
         "vpnName": "Arab Emirates 1",
         "vpnLocked": false,
         "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/uae.ovpn/refs/heads/main/emirates.ovpn"
       },
       {
         "vpnName": "Arab Emirates 2",
         "vpnLocked": false,
         "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
         "vpnName": "Germany",
