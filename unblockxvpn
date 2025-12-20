@@ -6,11 +6,11 @@
 
   "AdsController": {
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
-    "BannerNetwork": "yandex",
-    "InterstitialNetwork": "yandex",
+ "BannerNetwork"          : "yandex",
+    "InterstitialNetwork"    : "yandex",
     "InterstitialNetworkHome": "yandex",
-    "RewardNetwork": "yandex",
-    "NativeNetwork": "yandex",
+    "RewardNetwork"          : "yandex",
+    "NativeNetwork"          : "yandex",
     "AdInterval": 3,
     "NativeAdRow": 6,
 
