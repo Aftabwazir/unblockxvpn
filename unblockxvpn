@@ -45,140 +45,135 @@
   },
 
   "VpnController": {
-    "VpnUserName": "7yJXLkNRHvH4DO2B",
-    "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
+    "VpnUserName": "zalmi",
+    "VpnPassword": "ZalmiVPN",
     "VpnList": [
       {
         "vpnName": "Arab Emirates 1",
         "vpnLocked": false,
         "vpnIso": "ae",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Arab Emirates 2",
         "vpnLocked": false,
         "vpnIso": "ae",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Germany",
         "vpnLocked": false,
         "vpnIso": "de",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Saudi Arabia",
         "vpnLocked": false,
         "vpnIso": "sa",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Saudi Arabia 2",
         "vpnLocked": false,
         "vpnIso": "sa",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "United States",
         "vpnLocked": false,
         "vpnIso": "us",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "United Kingdom",
         "vpnLocked": false,
         "vpnIso": "gb",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "France",
         "vpnLocked": false,
         "vpnIso": "fr",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Italy",
         "vpnLocked": false,
         "vpnIso": "it",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Spain",
         "vpnLocked": false,
         "vpnIso": "es",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Netherlands",
         "vpnLocked": true,
         "vpnIso": "nl",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Sweden",
         "vpnLocked": false,
         "vpnIso": "se",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Norway",
         "vpnLocked": false,
         "vpnIso": "no",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Finland",
         "vpnLocked": false,
         "vpnIso": "fi",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Switzerland",
         "vpnLocked": false,
         "vpnIso": "ch",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Belgium",
         "vpnLocked": false,
         "vpnIso": "be",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Austria",
         "vpnLocked": false,
         "vpnIso": "at",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/at.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
-      {
-        "vpnName": "Poland",
-        "vpnLocked": false,
-        "vpnIso": "pl",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
-      },
+   
       {
         "vpnName": "Canada",
         "vpnLocked": false,
         "vpnIso": "ca",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "China",
         "vpnLocked": false,
         "vpnIso": "cn",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "India",
         "vpnLocked": true,
         "vpnIso": "in",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Morocco",
         "vpnLocked": false,
         "vpnIso": "ma",
-        "vpnFile": "https://github.com/Aftabwazir/usanew/blob/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
       }
     ]
   }
